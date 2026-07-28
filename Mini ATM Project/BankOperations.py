@@ -38,5 +38,3 @@ class Operations:
 
     except ValueError:
         print("Don't enter alpha numeric values or special characters.")
-
-base_Amt = 1500.00
